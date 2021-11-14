@@ -14,6 +14,7 @@ If you want to contribute, please open a pull request.
 - [Development tools](#development-tools)
     - [Testing](#testing)
 - [Tools](#tools)
+    - [Market Maker](#market-maker)
     - [Stats](#stats)
 - [Documentation](#documentation)
 - [Tutorials](#tutorials)
@@ -35,11 +36,16 @@ If you want to contribute, please open a pull request.
 ### Terminal
 
 - [mm2-client](https://github.com/Milerius/mm2-client) - An Open-source terminal client of AtomicDEX-API written in 
-  Golang.
+  Golang with Market Maker bot support.
 
 ## Development tools
 
 ## Tools
+
+### Market Maker
+
+- [Market Maker conf generation](https://github.com/smk762/DragonhoundTools/blob/master/atomicdex/generate_maker_cfg.py) - To generate market maker bot in Python configuration by `smk762`
+- [Market Maker conf generation](http://116.203.120.91:8762/tools/makerbot_cfg) - To generate market maker bot configuration by `smk762`
 
 ### Stats
 
