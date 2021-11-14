@@ -58,6 +58,7 @@ If you want to contribute, please open a pull request.
 
 - [DragonhoundTools](https://github.com/smk762/DragonhoundTools/tree/master/atomicdex) - Python/Bash scripts for AtomicDEX by `smk762`
 - [Webworker's mmtools](https://github.com/webworker01/mmtools) - Bash CLI tools for the AtomicDEX API by `webworker01`
+- [Arbitrage Opportunities](https://dexstats.info/arbitrage.php) - By `CHMEX`
 
 ## Documentation
 
