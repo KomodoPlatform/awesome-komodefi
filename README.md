@@ -19,6 +19,7 @@ If you want to contribute, please open a pull request.
 - [Documentation](#documentation)
 - [Tutorials](#tutorials)
 - [Articles](#articles)
+- [Videos](#videos)
 - [Projects using AtomicDEX](#projects-using-atomicdex)
     
 
@@ -68,6 +69,12 @@ If you want to contribute, please open a pull request.
 ## Articles
 
 - [Cointelegraph: AtomicDEX Beta Launch](https://cointelegraph.com/news/komodo-launches-atomicdex-beta-bringing-atomic-swaps-to-ethereum-and-bitcoin)
+
+## Videos
+
+- [Presentation by LiteLiger](https://youtu.be/mgfgdoc2v6o)
+- [Presentation by KomodoPlatform](https://youtu.be/4LhGFbLAKHk)
+- [Presentation by Tokel](https://youtu.be/fUs2l8kkBRQ)
 
 ## Projects using AtomicDEX
 
