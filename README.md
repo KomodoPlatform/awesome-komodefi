@@ -57,6 +57,8 @@ If you want to contribute, please open a pull request.
 
 ## Articles
 
+- [Cointelegraph: AtomicDEX Beta Launch](https://cointelegraph.com/news/komodo-launches-atomicdex-beta-bringing-atomic-swaps-to-ethereum-and-bitcoin)
+
 ## Projects using AtomicDEX
 
 - [firo](https://firo.org/) - Firo provide liquidity through AtomicDEX
