@@ -1,6 +1,6 @@
 # Awesome AtomicDEX
 
-A curated list of AtomicDEX projects and ressources.
+A curated list of [AtomicDEX](https://atomicdex.io/) projects and ressources.
 
 If you want to contribute, please open a pull request.
 
