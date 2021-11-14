@@ -43,7 +43,7 @@ If you want to contribute, please open a pull request.
 ### Market Maker
 
 - [Market Maker conf generation script](https://github.com/smk762/DragonhoundTools/blob/master/atomicdex/generate_maker_cfg.py) - To generate market maker bot in Python configuration by `smk762`
-- [Market Maker conf generation form](http://116.203.120.91:8762/tools/makerbot_cfg) - To generate market maker bot configuration by `smk762`
+- [Market Maker conf generation form](https://stats.kmd.io/tools/makerbot_cfg/) - To generate market maker bot configuration by `smk762`
 - [Cipi's mmtools](https://github.com/cipig/mmtools) - Perl tool for automated trading and prices data from a variety of sources and exchanges by `cipig`
 
 ### Stats
@@ -72,6 +72,7 @@ If you want to contribute, please open a pull request.
 ## Articles
 
 - [Cointelegraph: AtomicDEX Beta Launch](https://cointelegraph.com/news/komodo-launches-atomicdex-beta-bringing-atomic-swaps-to-ethereum-and-bitcoin)
+- [UTXO Alliance](https://komodoplatform.com/en/blog/komodo-joins-the-utxo-alliance/)
 
 ## Videos
 
