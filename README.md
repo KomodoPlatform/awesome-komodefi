@@ -61,6 +61,10 @@ If you want to contribute, please open a pull request.
 - [master 2.0](https://developers.komodoplatform.com/basic-docs/atomicdex-api-20/) - Master 2.0 Documentation
 - [dev 2.0](https://developers.komodoplatform.com/basic-docs/atomicdex-api-20-dev/) - Dev 2.0 Documentation
 
+## Tutorials
+
+- [Official AtomicDEX Tutorial](https://developers.komodoplatform.com/basic-docs/atomicdex/atomicdex-tutorials/introduction-to-atomicdex.html)
+
 ## Articles
 
 - [Cointelegraph: AtomicDEX Beta Launch](https://cointelegraph.com/news/komodo-launches-atomicdex-beta-bringing-atomic-swaps-to-ethereum-and-bitcoin)
