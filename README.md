@@ -11,11 +11,10 @@ If you want to contribute, please open a pull request.
     - [Mobile](#mobile)
     - [Web](#web)
     - [Terminal](#terminal)
-- [Development tools](#development-tools)
-    - [Testing](#testing)
 - [Tools](#tools)
     - [Market Maker](#market-maker)
     - [Stats](#stats)
+    - [Various](#various)
 - [Documentation](#documentation)
 - [Tutorials](#tutorials)
 - [Articles](#articles)
@@ -39,8 +38,6 @@ If you want to contribute, please open a pull request.
 - [mm2-client](https://github.com/Milerius/mm2-client) - An Open-source terminal client of AtomicDEX-API written in 
   Golang with Market Maker bot support.
 
-## Development tools
-
 ## Tools
 
 ### Market Maker
@@ -56,6 +53,11 @@ If you want to contribute, please open a pull request.
 - [stats.kmd.io](https://stats.kmd.io/) - Komodo & AtomicDEX Stats by `smk762`
 - [nomics](https://nomics.com/exchanges/atomicdex) - Nomics Stats of AtomicDEX exchange, rate A (excellent).
 - [coinpaprika](https://coinpaprika.com/fr/exchanges/atomicdex/) - Coinpaprika Stats of AtomicDEX exchange.
+
+### Various
+
+- [DragonhoundTools](https://github.com/smk762/DragonhoundTools/tree/master/atomicdex) - Python/Bash scripts for AtomicDEX by `smk762`
+- [Webworker's mmtools](https://github.com/webworker01/mmtools) - Bash CLI tools for the AtomicDEX API by `webworker01`
 
 ## Documentation
 
