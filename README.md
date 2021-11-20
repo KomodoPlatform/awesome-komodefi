@@ -69,6 +69,7 @@ If you want to contribute, please open a pull request.
 ## Tutorials
 
 - [Official AtomicDEX Tutorial](https://developers.komodoplatform.com/basic-docs/atomicdex/atomicdex-tutorials/introduction-to-atomicdex.html)
+- [Atomic Swaps for dummies](https://ikomodo.com/atomic-swaps-for-dummies/)
 
 ## Articles
 
