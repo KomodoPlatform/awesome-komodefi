@@ -1,6 +1,6 @@
 # Awesome AtomicDEX
 
-A curated list of [AtomicDEX](https://atomicdex.io/) projects and ressources.
+A curated list of [AtomicDEX](https://atomicdex.io/) projects and resources.
 
 If you want to contribute, please open a pull request.
 
@@ -37,7 +37,9 @@ If you want to contribute, please open a pull request.
 
 - [mm2-client](https://github.com/Milerius/mm2-client) - An Open-source terminal client of AtomicDEX-API written in 
   Golang with Market Maker bot support.
-
+- [PytomicDEX_Bakerbot](https://github.com/smk762/pytomicDEX_makerbot) - An Open-source terminal client of AtomicDEX-API written in 
+  Python with Market Maker bot support.
+  
 ## Tools
 
 ### Market Maker
@@ -70,6 +72,7 @@ If you want to contribute, please open a pull request.
 
 - [Official AtomicDEX Tutorial](https://developers.komodoplatform.com/basic-docs/atomicdex/atomicdex-tutorials/introduction-to-atomicdex.html)
 - [Atomic Swaps for dummies](https://ikomodo.com/atomic-swaps-for-dummies/)
+- [PytomicDEX Makerbot User Guide](https://odysee.com/@Dragonhound:7/pytomicDEX-makerbot:8)
 
 ## Articles
 
