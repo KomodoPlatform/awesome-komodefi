@@ -36,9 +36,9 @@ If you want to contribute, please open a pull request.
 ### Terminal
 
 - [mm2-client](https://github.com/Milerius/mm2-client) - An Open-source terminal client of AtomicDEX-API written in 
-  Golang with Market Maker bot support.
+  Golang with Market Maker bot support. (unofficial)
 - [PytomicDEX_Makerbot](https://github.com/smk762/pytomicDEX_makerbot) - An Open-source terminal client of AtomicDEX-API written in 
-  Python with Market Maker bot support.
+  Python with Market Maker bot support. (unofficial)
   
 ## Tools
 
