@@ -79,6 +79,7 @@ If you want to contribute, please open a pull request.
 
 - [Cointelegraph: AtomicDEX Beta Launch](https://cointelegraph.com/news/komodo-launches-atomicdex-beta-bringing-atomic-swaps-to-ethereum-and-bitcoin)
 - [UTXO Alliance](https://komodoplatform.com/en/blog/komodo-joins-the-utxo-alliance/)
+- [CryptoVentureNews: AtomicDEX Review](https://cryptoventurenews.com/guides/atomicdex-review/)
 
 ## Videos
 
