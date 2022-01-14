@@ -72,12 +72,14 @@ If you want to contribute, please open a pull request.
 
 - [Official AtomicDEX Tutorial](https://developers.komodoplatform.com/basic-docs/atomicdex/atomicdex-tutorials/introduction-to-atomicdex.html)
 - [Atomic Swaps for dummies](https://ikomodo.com/atomic-swaps-for-dummies/)
-- [PytomicDEX Makerbot User Guide](https://odysee.com/@Dragonhound:7/pytomicDEX-makerbot:8)
+- [PytomicDEX Makerbot Video User Guide](https://www.youtube.com/watch?v=zOLJ501rVgo)
+- [AtomicDEX Desktop v0.5.4 video walkthrough](https://www.youtube.com/watch?v=M-QSxau1bN0)
 
 ## Articles
 
 - [Cointelegraph: AtomicDEX Beta Launch](https://cointelegraph.com/news/komodo-launches-atomicdex-beta-bringing-atomic-swaps-to-ethereum-and-bitcoin)
 - [UTXO Alliance](https://komodoplatform.com/en/blog/komodo-joins-the-utxo-alliance/)
+- [CryptoVentureNews: AtomicDEX Review](https://cryptoventurenews.com/guides/atomicdex-review/)
 
 ## Videos
 
