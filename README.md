@@ -30,8 +30,10 @@ If you want to contribute, please open a pull request.
   using AtomicDEX-API written in C++17 and Qt.
 
 ### Mobile
+- [AtomicDEX-Mobile](https://atomicdex.io/en/mobile/)
 
 ### Web
+- [WebDEX](https://app.atomicdex.io/)
 
 ### Terminal
 
