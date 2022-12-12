@@ -79,16 +79,26 @@ If you want to contribute, please open a pull request.
 
 ## Articles
 
+- [Coindesk: Komodo Offering Three-In-One Wallet, Cross-Chain Bridge and DEX](https://www.coindesk.com/business/2022/11/30/blockchain-protocol-komodo-introduces-three-in-one-wallet-cross-chain-bridge-and-dex/)
+- [Blockchain Interoperability, New Tech, and Lofty Goals: Interview With Komodo CTO Kadan Stadelmann at Cosmoverse 2022](https://www.benzinga.com/markets/cryptocurrency/22/10/29161631/blockchain-interoperability-new-tech-and-lofty-goals-interview-with-komodo-cto-kadan-stade)
+- [Komodo’s AtomicDEX bridge will now connect Cosmos to hundreds of blockchains](https://cryptoslate.com/komodo-atomicdex-bridge-will-now-connect-cosmos-to-hundreds-of-blockchains/)
+- [Cross-chain Bridging is Broken - But We Know How to Fix It](https://cryptonews.com/exclusives/cross-chain-bridging-is-broken-but-we-know-how-to-fix-it.htm)
 - [Cointelegraph: AtomicDEX Beta Launch](https://cointelegraph.com/news/komodo-launches-atomicdex-beta-bringing-atomic-swaps-to-ethereum-and-bitcoin)
 - [UTXO Alliance](https://komodoplatform.com/en/blog/komodo-joins-the-utxo-alliance/)
 - [CryptoVentureNews: AtomicDEX Review](https://cryptoventurenews.com/guides/atomicdex-review/)
 
 ## Videos
 
+- [Blockhash Podcast: Komodo and the AtomicDEX Protocol](https://www.youtube.com/watch?v=zNHIUONnot8)
 - [Presentation by LiteLiger](https://youtu.be/mgfgdoc2v6o)
 - [Presentation by KomodoPlatform](https://youtu.be/4LhGFbLAKHk)
 - [Presentation by Tokel](https://youtu.be/fUs2l8kkBRQ)
 - [Presentation by Bfresh](https://youtu.be/h6F_RX3KPIE)
+
+## Podcasts
+
+- [Citizen Cosmos: Kadan, cross-chain swaps, web3 and technical singularity](https://www.citizencosmos.space/komodo)
+- [CryptoNews Podcast: Kadan Stadelmann on The Cosmos Ecosystem and $ATOM Becoming a Top 10 Crypto](https://podcasts.apple.com/ca/podcast/175-kadan-stadelmann-on-the-cosmos-ecosystem-and/id1559291408?i=1000584895565)
 
 ## Projects using AtomicDEX
 
