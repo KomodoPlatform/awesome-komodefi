@@ -49,6 +49,8 @@ If you want to contribute, please open a pull request.
 - [Market Maker conf generation script](https://github.com/smk762/DragonhoundTools/blob/master/atomicdex/generate_maker_cfg.py) - To generate market maker bot in Python configuration by `smk762`
 - [Market Maker conf generation form](https://stats.kmd.io/tools/makerbot_cfg/) - To generate market maker bot configuration by `smk762`
 - [Cipi's mmtools](https://github.com/cipig/mmtools) - Perl tool for automated trading and prices data from a variety of sources and exchanges by `cipig`
+- [SirSeven's libmarketmaker](https://github.com/SirSevenG/libmarketmaker) Python3 library to proxy marketmaker2 rp calls. by `SirSeven`
+
 
 ### Stats
 
