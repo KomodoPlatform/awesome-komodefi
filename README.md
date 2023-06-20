@@ -106,7 +106,6 @@ If you want to contribute, please open a pull request.
 
 - [firo](https://firo.org/) - Firo provide liquidity through AtomicDEX
 - [gleec](https://gleec.com/) - GleecDEX use AtomicDEX API.
-- [smartfi](https://smartfi.com/) - SmartDEX use AtomicDEX API.
 
 ### Protocols Matrix
 
