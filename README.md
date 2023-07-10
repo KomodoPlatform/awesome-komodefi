@@ -1,6 +1,6 @@
-# Awesome AtomicDEX
+# Awesome Komodo DeFi
 
-A curated list of [AtomicDEX](https://atomicdex.io/) projects and resources.
+A curated list of [Komodo DeFi Framework](https://atomicdex.io/) projects and resources.
 
 If you want to contribute, please open a pull request.
 
@@ -19,27 +19,30 @@ If you want to contribute, please open a pull request.
 - [Tutorials](#tutorials)
 - [Articles](#articles)
 - [Videos](#videos)
-- [Projects using AtomicDEX](#projects-using-atomicdex)
+- [Projects using Komodo DeFi Framework](#projects-using-komodefi)
     
 
 ## Applications
 
 ### Desktop
 
-- [AtomicDEX-Desktop](https://github.com/KomodoPlatform/atomicDEX-Desktop) — An open-source GUI Exchange/Wallet 
-  using AtomicDEX-API written in C++17 and Qt.
+- [Komodo Wallet Desktop](https://github.com/KomodoPlatform/komodo-wallet-desktop) — An open-source GUI 
+Exchange/Wallet 
+  using Komodo DeFi Framework written in C++17 and Qt.
 
 ### Mobile
-- [AtomicDEX-Mobile](https://atomicdex.io/en/mobile/)
+- [Komodo Wallet Mobile](https://github.com/KomodoPlatform/komodo-wallet-mobile)
 
 ### Web
-- [WebDEX](https://app.atomicdex.io/)
+- [Komodo Wallet Web](https://app.atomicdex.io/)
 
 ### Terminal
 
-- [mm2-client](https://github.com/Milerius/mm2-client) - An Open-source terminal client of AtomicDEX-API written in 
+- [mm2-client](https://github.com/Milerius/mm2-client) - An Open-source terminal client of Komodo DeFi Framework 
+written in 
   Golang with Market Maker bot support. (unofficial)
-- [PytomicDEX_Makerbot](https://github.com/smk762/pytomicDEX_makerbot) - An Open-source terminal client of AtomicDEX-API written in 
+- [PytomicDEX_Makerbot](https://github.com/smk762/pytomicDEX_makerbot) - An Open-source terminal client of Komodo 
+DeFi Framework written in 
   Python with Market Maker bot support. (unofficial)
   
 ## Tools
@@ -54,16 +57,17 @@ If you want to contribute, please open a pull request.
 
 ### Stats
 
-- [dexstats](https://dexstats.info/) - AtomicDEX Orderbooks and Komodo Stats by `CHMEX`.
-- [dexplorer](https://dexplorer.io/) - AtomicDEX Stats website by `MadMax`.
-- [stats.kmd.io](https://stats.kmd.io/) - Komodo & AtomicDEX Stats by `smk762`
-- [nomics](https://nomics.com/exchanges/atomicdex) - Nomics Stats of AtomicDEX exchange, rate A (excellent).
-- [coinpaprika](https://coinpaprika.com/fr/exchanges/atomicdex/) - Coinpaprika Stats of AtomicDEX exchange.
+- [dexstats](https://dexstats.info/) - Komodo DeFi Orderbooks and Komodo Stats by `CHMEX`.
+- [dexplorer](https://dexplorer.io/) - Komodo DeFi Stats website by `MadMax`.
+- [stats.kmd.io](https://stats.kmd.io/) - Komodo Core & DeFi  Stats by `smk762`
+- [coinpaprika](https://coinpaprika.com/fr/exchanges/atomicdex/) - Coinpaprika Stats of Komodo exchange.
 
 ### Various
 
-- [DragonhoundTools](https://github.com/smk762/DragonhoundTools/tree/master/atomicdex) - Python/Bash scripts for AtomicDEX by `smk762`
-- [Webworker's mmtools](https://github.com/webworker01/mmtools) - Bash CLI tools for the AtomicDEX API by `webworker01`
+- [DragonhoundTools](https://github.com/smk762/DragonhoundTools/tree/master/atomicdex) - Python/Bash scripts for 
+Komodo DeFi Framework by `smk762`
+- [Webworker's mmtool](https://github.com/webworker01/mmtools) - Bash CLI tools for the Komodo DeFi Framework by 
+`webworker01`
 - [Arbitrage Opportunities](https://dexstats.info/arbitrage.php) - By `CHMEX`
 
 ## Documentation
@@ -102,14 +106,14 @@ If you want to contribute, please open a pull request.
 - [Citizen Cosmos: Kadan, cross-chain swaps, web3 and technical singularity](https://www.citizencosmos.space/komodo)
 - [CryptoNews Podcast: Kadan Stadelmann on The Cosmos Ecosystem and $ATOM Becoming a Top 10 Crypto](https://podcasts.apple.com/ca/podcast/175-kadan-stadelmann-on-the-cosmos-ecosystem-and/id1559291408?i=1000584895565)
 
-## Projects using AtomicDEX
+## Projects using Komodo DeFi Framework
 
-- [firo](https://firo.org/) - Firo provide liquidity through AtomicDEX
-- [gleec](https://gleec.com/) - GleecDEX use AtomicDEX API.
+- [firo](https://firo.org/) - Firo provide liquidity through Komodo SDK
+- [gleec](https://gleec.com/) - GleecDEX use Komodo DeFi Framework.
 
 ### Protocols Matrix
 
-Supported Protocols/coins in AtomicDEX
+Supported Protocols/coins in Komodo DeFi Framework
 
 | Protocols          | Swaps              | Wallet             | Coins                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Website                                                   | New Protocol       |
 |--------------------|--------------------|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|--------------------|
