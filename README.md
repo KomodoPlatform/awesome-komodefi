@@ -1,4 +1,4 @@
-# Awesome Komodo DeFi
+# Awesome Komodo DeFi Framework
 
 A curated list of [Komodo DeFi Framework](https://atomicdex.io/) projects and resources.
 
